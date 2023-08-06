@@ -3,7 +3,7 @@
 ## Description
 It's drowsiness detection application created using python libraries such as cv2, numpy, keras and pygame.
 
-## prerequisits
+## Prerequisites
 VSCode and python
 
 ## Youtube demo and tutorials
